@@ -36,9 +36,9 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/BenjedouNaim/BenjedouNaim/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"  />
+</div>
 
 ###
 
