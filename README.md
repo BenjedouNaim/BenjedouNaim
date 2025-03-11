@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Turning coffee  into code  since 2022<br>📚 I'm currently learning RAG and Fine-Tuning Open Source AI Models<br>🎯 Vision: Empower software engineers by provinding AI based tools <br>🎲 Fun fact: My bugs are always gneous features !</p>
+<p align="left">✨ Turning coffee  into code  since 2022<br>📚 I'm currently learning RAG and Fine-Tuning Open Source AI Models<br>🎯 Vision: Empower software engineers by provinding AI based tools <br>🎲 Fun fact: My bugs are always genous features !</p>
 
 ###
 
